@@ -24,7 +24,8 @@ The parsing is as follow :
   
 One note always containing one and only one syllable.
 We parsed every songs in continous attributes and discrete attributes.
-The discrete attributes are :
+
+The discrete attributes are, in order:
 
 — The Pitch of the note :
   In music, the pitch is what decide of how the note should beplayed. We used the Midi note number as an unit of pitch, it can take any integervalue between 0 and 127.
@@ -37,7 +38,7 @@ The discrete attributes are :
   This value can take the same numerical values as the Duration but it can also be null (so zero).
 
 
-The continuous attributes are :
+The continuous attributes are, in order:
 
 — The start of the note : In seconds since the beginning of the sung song.
 
@@ -46,3 +47,29 @@ The continuous attributes are :
 — The frequency of the note : In Hertz.
 
 — The velocity of the note : Mesured as an integer by the pretty_midi python package.
+
+
+
+An exemple on the song Listen to the Rhythm of the falling rain is :
+
+List    [74.0, 0.5, 0.0]		[0.0, 0.18595050000000057, 587.3295358348151, 110.0]
+en  		[72.0, 1.0, 0.0]		[0.247933999999999, 0.24380176666666742, 523.2511306011972, 110.0]
+to	  	[72.0, 0.5, 0.0]		[0.24793400000000076, 0.18595050000000057, 523.2511306011972, 110.0]
+the	  	[69.0, 1.0, 0.0]		[0.24793400000000076, 0.24380176666666564, 440.0, 110.0]
+rhy	  	[69.0, 0.5, 0.0]		[0.247933999999999, 0.18595050000000057, 440.0, 110.0]
+thm	  	[67.0, 1.0, 0.0]		[0.24793400000000076, 0.24380176666666564, 391.99543598174927, 110.0]
+of		  [67.0, 1.0, 0.0]		[0.247933999999999, 0.24380176666666742, 391.99543598174927, 110.0]
+the		  [65.0, 0.5, 0.0]		[0.24793400000000076, 0.18595050000000057, 349.2282314330039, 110.0]
+fall		[67.0, 2.5, 0.0]		[0.24793400000000076, 0.41322333333333283, 391.99543598174927, 110.0]
+ing		  [65.0, 1.0, 0.0]		[0.49586799999999975, 0.24380176666666564, 349.2282314330039, 110.0]
+rain		[65.0, 4.0, 0.0]		[0.247933999999999, 0.9917360000000013, 349.2282314330039, 110.0]
+Tel		  [74.0, 1.0, 1.0]		[1.2396700000000003, 0.24380176666666742, 587.3295358348151, 110.0]
+ling		[72.0, 0.5, 0.0]		[0.24793400000000076, 0.18595050000000057, 523.2511306011972, 110.0]
+me		  [72.0, 1.0, 0.0]		[0.247933999999999, 0.24380176666666742, 523.2511306011972, 110.0]
+just		[69.0, 0.5, 0.0]		[0.24793400000000076, 0.18595050000000057, 440.0, 110.0]
+what		[69.0, 0.5, 0.0]		[0.24793400000000076, 0.1239669999999986, 440.0, 110.0]
+a		    [67.0, 0.5, 0.0]		[0.1239669999999986, 0.12396700000000038, 391.99543598174927, 110.0]
+fool		[69.0, 1.5, 0.0]		[0.12396700000000038, 0.37190100000000115, 440.0, 110.0]
+I've		[72.0, 0.5, 0.0]		[0.49586799999999975, 0.18595050000000057, 523.2511306011972, 110.0]
+been		[72.0, 2.0, 0.0]		[0.24793400000000076, 0.49586799999999975, 523.2511306011972, 110.0]
+I		    [65.0, 1.0, 4.0]		[1.735538, 0.24380176666666742, 349.2282314330039, 110.0]
