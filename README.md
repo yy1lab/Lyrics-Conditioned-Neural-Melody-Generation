@@ -50,7 +50,7 @@ The continuous attributes are, in order:
 
 
 
-An exemple on the song Listen to the Rhythm of the falling rain is :
+An exemple on the song Listen to the Rhythm of the falling rain in the syllable parsing is :
 
 List    [74.0, 0.5, 0.0]		[0.0, 0.18595050000000057, 587.3295358348151, 110.0]
 
@@ -91,5 +91,3 @@ fool		[69.0, 1.5, 0.0]		[0.12396700000000038, 0.37190100000000115, 440.0, 110.0]
 I've		[72.0, 0.5, 0.0]		[0.49586799999999975, 0.18595050000000057, 523.2511306011972, 110.0]
 
 been		[72.0, 2.0, 0.0]		[0.24793400000000076, 0.49586799999999975, 523.2511306011972, 110.0]
-
-I		    [65.0, 1.0, 4.0]		[1.735538, 0.24380176666666742, 349.2282314330039, 110.0]
