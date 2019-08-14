@@ -1,6 +1,6 @@
 # Lyrics-Conditioned Neural Melody Generation
 
-This is the dataset parsed and used for the project Lyrics Conditioned Neural Melody.
+This is the dataset parsed and used for the project Lyrics Conditioned Neural Melody Generation.
 
 
 The data comes from the LAKH Midi Dataset lmd-full (downloadable at this url : https://colinraffel.com/projects/lmd/). Only english songs were used from the dataset.
