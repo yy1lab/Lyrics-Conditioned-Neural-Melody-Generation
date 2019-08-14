@@ -1,4 +1,4 @@
-# Lyrics-Conditioned-Neural-Melody-Generation
+# Lyrics-Conditioned Neural Melody Generation
 
 This is the dataset parsed and used for the project Lyrics Conditioned Neural Melody.
 
