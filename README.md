@@ -1,5 +1,5 @@
 
-If you use our lyrics-melody dataset and lyrics embedding, please kindly cite our paper in the following:
+If you use our lyrics-melody dataset and lyrics embedding, please kindly cite our paper
 "Conditional LSTM-GAN for Melody Generation from Lyrics" available at https://arxiv.org/pdf/1908.05551.pdf (more details about lyrics-melody dataset and melody generation from lyrics)
 
 
