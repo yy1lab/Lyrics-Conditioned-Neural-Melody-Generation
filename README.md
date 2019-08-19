@@ -17,16 +17,16 @@ Contact Yi Yu by yiyu@nii.ac.jp.
 # Lyrics-Conditioned Neural Melody Generation
 
 
-This is the dataset parsed and used for the project Lyrics Conditioned Neural Melody Generation.
+This is the dataset parsed and used for the project Lyrics-Conditioned Neural Melody Generation.
 
 
-The data comes from the LAKH Midi Dataset lmd-full (downloadable at this url : https://colinraffel.com/projects/lmd/). Only english songs were used from the dataset.
+The data comes from the LAKH Midi Dataset lmd-full (downloadable at this url : https://colinraffel.com/projects/lmd/). Only English songs were used from the dataset.
 To download the MIDI files corresponding the .npy files from the dataset, you can search the names of the files in both dataset, that are unchanged and serve as ID.
 
 The parsing is as follow :
 
 — The syllable parsing :
-  This format is the lowest level that pair together every notesand the corresponding syllable and it’ss attributes.
+  This format is the lowest level that pair together every notesand the corresponding syllable and it’s attributes.
 
 — The word parsing :
   This format regroups every notes of a word and gives the attributesof every syllables that makes the word.
