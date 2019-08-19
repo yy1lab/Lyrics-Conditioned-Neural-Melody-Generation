@@ -2,7 +2,7 @@
 If you use our lyrics-melody dataset and lyrics embedding, please kindly cite our paper
 "Conditional LSTM-GAN for Melody Generation from Lyrics" available at https://arxiv.org/pdf/1908.05551.pdf (more details about lyrics-melody dataset and melody generation from lyrics)
 
-Our 12 melodies used in  subjective evaluation of this paper are provided. If you have any questions, please let us know.
+Our 12 melodies (melodies_experiment.zip) used in subjective evaluation of this paper are provided. If you have any questions, please let us know. 
 Contact Yi Yu by yiyu@nii.ac.jp.
 
 # Lyrics-Conditioned Neural Melody Generation
