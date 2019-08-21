@@ -19,9 +19,18 @@ Contact Yi Yu by yiyu@nii.ac.jp.
 
 This is the dataset parsed and used for the project Lyrics-Conditioned Neural Melody Generation.
 
+For the project, two differents dataset were used : 
+- One dataset that can be found in the "partial_dataset" folder and comes from the LAKH Midi Dataset lmd-full (downloadable at this url : https://colinraffel.com/projects/lmd/). Only English songs were used from the dataset.
+  To download the MIDI files corresponding the .npy files from the dataset, you can search the names of the files in both dataset, that   are unchanged and serve as ID.
+  This dataset was used for training the LSTM-GAN model. Both word-level parsing and syllable-level parsing were used in the training (see below for more information)
+  
+  
+- One dataset that is made by mergind the one from LAKH Midi Dataset and one found on https://www.reddit.com/r/datasets/comments/3akhxy/the_largest_midi_collection_on_the_internet/. 
+  This dataset was used for training the Skip-gram embeddings as well as the BURT embeddings. Fom this dataset, only Word-level parsing was used.
 
-The data comes from the LAKH Midi Dataset lmd-full (downloadable at this url : https://colinraffel.com/projects/lmd/). Only English songs were used from the dataset.
-To download the MIDI files corresponding the .npy files from the dataset, you can search the names of the files in both dataset, that are unchanged and serve as ID.
+
+lyrics embeddings for "lmd-full + reddit" are used for training skip-gram model and BURT model, while, lyrics embeddings for "lmd-full" are used for training, validation, and testing in Conditional LSTM-GAN model for melody generation from lyrics. 
+
 
 The parsing is as follow :
 
