@@ -21,19 +21,15 @@ Answers to your questions:
 lyrics_encoders contains all trained moodels
 
 2. Which folder/file I can use to get all syllable-level, word-level, and sentence-level embedding vectors extracted from our trained BURT model?
-
 This is not uploaded due to limited space, but, you can email us to obtain.
 
 3. Which folder/file we can use to get information about how to directly use our trained Skip-gram model to extract lyrics embedding vectors?
-
 Python_script_to_extract_syllables_and_word_level_embeddings.ipynb can be used to directly to get embeddings.
 
 4. Which folder/file we can use to get information about how to directly use our trained BURT model to extract lyrics embedding vectors?
-
 This is not uploaded due to limted space, but, you can email us to obtian.
 
 5. Which folder/file we can use to get lyrics embedding vectors used in the paper "Conditional GAN-LSTM for Melody Generation from Lyrics"? 
-
 Same script can be used to get the embeddings (Python_script_to_extract_syllables_and_word_level_embeddings.ipynb can be used to directly to get embeddings).
 
 
