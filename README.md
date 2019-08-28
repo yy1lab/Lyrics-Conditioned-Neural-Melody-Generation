@@ -24,9 +24,9 @@ Answers to your questions:
 
 5. --Which folder/file I can use to get all syllable-level, word-level, and sentence-level embedding vectors extracted from our trained BURT model? -- This is not uploaded due to limited space, but, you can email us to obtain.
 
-6. --Which folder/file I can use to get information about how to directly use the trained Skip-gram model to extract lyrics embedding vectors? -- Skip-gram_model_script_to_extract_syllables_and_word_level_embeddings.ipynb can be used to directly to get embeddings.
+6. --Which folder/file I can use to get information about how to directly use the trained Skip-gram model to extract lyrics embedding vectors? -- Skip-gram_model_script_to_extract_syllables_and_word_level_embeddings.ipynb can be used to directly get embeddings.
 
-7. --Which folder/file I can use to get information about how to directly use the trained BURT model to extract lyrics embedding vectors? -- This is not uploaded due to limted space, but, you can email us to obtian.
+7. --Which folder/file I can use to get information about how to directly use the trained BURT model to extract lyrics embedding vectors? -- This is not uploaded due to limited space, but, you can email us to obtain.
 
 8. --Which folder/file we can use to get lyrics embedding vectors used in the paper "Conditional GAN-LSTM for Melody Generation from Lyrics"? -- Same script can be used to get the embeddings (Skip-gram_model_script_to_extract_syllables_and_word_level_embeddings.ipynb  can be used to directly to get embeddings).
 
