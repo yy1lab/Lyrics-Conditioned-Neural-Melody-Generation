@@ -20,7 +20,7 @@ Answers to your questions:
 
 3. --Which folder/file I can use to craw/have 4,199 MIDI ﬁles come from reddit MIDI dataset? -- The reddit dataset is not parsed alone. You can find it by using "lmd-full_and_reddit_MIDI_dataset".
 
-4. --Which folder/file I can use to get all syllable-level, word-level, and sentence-level embedding vectors extracted from our trained  Skip-gram model? -- Skip-gram_lyrics_encoders contains all trained models.
+4. --Which folder/file I can use to get all syllable-level, word-level, and sentence-level embedding vectors extracted from our trained  Skip-gram model? -- Skip-gram_lyrics_encoders (lyric_encoders) contains all trained models.
 
 5. --Which folder/file I can use to get all syllable-level, word-level, and sentence-level embedding vectors extracted from our trained BURT model? -- This is not uploaded due to limited space, but, you can email us to obtain.
 
