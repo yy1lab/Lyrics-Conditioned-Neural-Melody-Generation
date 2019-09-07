@@ -136,7 +136,9 @@ been		[72.0, 2.0, 0.0]		[0.24793400000000076, 0.49586799999999975, 523.251130601
 MIT License
 
 Copyright (c) 2019 Source@Lyrics-Conditioned Neural Melody Generation (tentative)
-(We will update our source timely and codes used for this project will be shared later. Accordingly, license will updated. )
+
+
+(We will update our source timely and codes used for this project will be shared soon. Accordingly, license will be updated. )
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this source and associated documentation files (the "dataset and embedding vectors"), without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
