@@ -1,7 +1,7 @@
 
    # Lyrics-Conditioned Neural Melody Generation
    
-Releasing codes at https://drive.google.com/file/d/1j0qhd0YkTp1-q6FNEE7y4O8JpA865KQ5/view?usp=sharing
+Updated Feb.14, 2020: Releasing codes at https://drive.google.com/file/d/1j0qhd0YkTp1-q6FNEE7y4O8JpA865KQ5/view?usp=sharing
 -------------------------------------------------------------------------------------------------------------------
 If you use our lyrics-melody dataset and lyrics embedding (including our skip-gram mdoel and BERT model repectively trained in our lyrics dataset), please kindly cite our paper
 "Conditional LSTM-GAN for Melody Generation from Lyrics" available at https://arxiv.org/pdf/1908.05551.pdf (more details about lyrics-melody dataset and melody generation from lyrics)
