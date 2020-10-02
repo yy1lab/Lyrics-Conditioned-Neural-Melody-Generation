@@ -1,5 +1,5 @@
 
-   # Lyrics-Conditioned Neural Melody Generation
+   # Lyrics-Conditioned Neural Melody Generation ( demonstration at https://www.youtube.com/watch?v=2PHcKhaLxAU ).
     
 @September 19, 2020: A full source of melody generation from lyrics can be downloaded at https://drive.google.com/file/d/1FbKTMX4w7nKyMf4-ZQF5J5DC71S-GPzh/view?usp=sharing . @September 17, 2020: Updated answers for readers and released the updated version of this work https://drive.google.com/file/d/1NIJAHuZMD2gro6Ws3o-b5K_Ec-nQiJuC/view?usp=sharing. @Feb.14, 2020: Released Codes of Condtional LSTM-GAN for Melody Generation from Lyrics at https://drive.google.com/file/d/1j0qhd0YkTp1-q6FNEE7y4O8JpA865KQ5/view?usp=sharing
 -------------------------------------------------------------------------------------------------------------------
